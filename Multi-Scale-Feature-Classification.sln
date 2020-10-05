@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SVM_WinForm", "SVM_WinForm\SVM_WinForm.vcxproj", "{2E489683-DE7F-407A-AA21-C01E7237CD44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E489683-DE7F-407A-AA21-C01E7237CD44}.Debug|x64.ActiveCfg = Debug|x64
+		{2E489683-DE7F-407A-AA21-C01E7237CD44}.Debug|x64.Build.0 = Debug|x64
+		{2E489683-DE7F-407A-AA21-C01E7237CD44}.Release|x64.ActiveCfg = Release|x64
+		{2E489683-DE7F-407A-AA21-C01E7237CD44}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFCBED0E-6480-4082-9639-43117FD18059}
+	EndGlobalSection
+EndGlobal
