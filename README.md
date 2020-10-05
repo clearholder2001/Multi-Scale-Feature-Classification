@@ -1,2 +1,2 @@
 # Multi-Scale-Feature-Classification
-This project, entitled ¡§Remote-Sensing Image Classification Using Texture based Multi-scale Features¡¨, is aimed to improve classification accuracy with multi scale schemes. Semivariogram is performed to generate texture-based features from remote sensing images with different scales, and Support Vector Machine conducts image classification.
+This project, entitled "Remote-Sensing Image Classification Using Texture based Multi-scale Features", is aimed to improve classification accuracy with multi scale schemes. Semivariogram is performed to generate texture-based features from remote sensing images with different scales, and Support Vector Machine conducts image classification.
